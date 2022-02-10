@@ -1,0 +1,24 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "Token",
+                "symbol": "TKN",
+                "decimals": "18",
+                "supply": "1000"
+            }
+        },
+        {
+            "category": "access_control",
+            "name": "core-administrator_role",
+            "parameters": {}
+        }
+    ],
+    "blockchain": "ethereum",
+    "language": "solidity",
+    "framework": "react"
+}

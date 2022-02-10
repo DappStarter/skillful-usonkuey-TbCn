@@ -1,0 +1,14 @@
+{
+    "name": "Ownable Token",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Token",
+        "/category/asset_value_tracking/core-token/symbol": "TKN",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "1000",
+        "/category/access_control/core-administrator_role": true
+    }
+}
